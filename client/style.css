@@ -8,14 +8,16 @@
 }
 
 body {
-  background: https://akm-img-a-in.tosshub.com/indiatoday/images/story/201510/hacking-647-x-404_102915051358.jpg?VersionId=4If_XiSSkuzcFj4pse4ryaLE7ChgoQ.g&size=690:388 ;
+  background: transparent;
 }
 
 #app {
   width: 100vw;
   height: 100vh;
-  background: https://akm-img-a-in.tosshub.com/indiatoday/images/story/201510/hacking-647-x-404_102915051358.jpg?VersionId=4If_XiSSkuzcFj4pse4ryaLE7ChgoQ.g&size=690:388;
-
+  background-image: url('/assets/hacking-647-x-404.jpg');
+  background-size: cover;
+  background-position: center;
+  
   display: flex;
   flex-direction: column;
   align-items: center;
