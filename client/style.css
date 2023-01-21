@@ -65,8 +65,8 @@ body {
 }
 
 .profile {
-  width: 36px;
-  height: 36px;
+  width: 60px;
+  height: 60px;
   border-radius: 5px;
 
   background: #5436DA;
@@ -81,8 +81,8 @@ body {
 }
 
 .profile img {
-  width: 60%;
-  height: 60%;
+  width: 80%;
+  height: 80%;
   object-fit: contain;
 }
 
